@@ -24,7 +24,6 @@ public class Main {
         horasTrabalhadas = sc.nextFloat();
         System.out.print("Informe o valor hora......: ");
 
-
         // Processamento de dados
 
         // Saída de dados

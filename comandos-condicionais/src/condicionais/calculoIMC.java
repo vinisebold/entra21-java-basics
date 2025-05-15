@@ -33,6 +33,6 @@ public class calculoIMC {
         } else {
             System.out.println("Obesidade Grau III");
         }
-        sc.close();
+        sc.close(); // Fecha Scanner
     }
 }
