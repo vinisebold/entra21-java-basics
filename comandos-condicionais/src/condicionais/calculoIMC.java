@@ -30,8 +30,10 @@ public class calculoIMC {
             System.out.println("Obesidade Grau I");
         } else if (IMC >= 35.0 && IMC <= 40.0) {
             System.out.println("Obesidade Grau II");
-        } else {
+        } else if (IMC > 40.0){
             System.out.println("Obesidade Grau III");
+        } else {
+            System.out.println("Valor do IMC fora dos padrões!");
         }
         sc.close(); // Fecha Scanner
     }
