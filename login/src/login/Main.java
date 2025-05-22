@@ -15,7 +15,7 @@ public class Main {
         System.out.print("Senha: ");
         String senhaDigitada = sc.next();
 
-        if (usuarioCorreto.equals(usuarioDigitado) && senhaCorreta.equals(senhaDigitada)) {
+        if (usuarioCorreto.equalsIgnoreCase(usuarioDigitado) && senhaCorreta.equalsIgnoreCase(senhaDigitada)) {
             System.out.println("Login efetuado com sucesso");
         } else {
             System.out.println("Credencias inválidas. Verifique");
