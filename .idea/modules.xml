@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basics/basics.iml" filepath="$PROJECT_DIR$/basics/basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comando-switch/comando-switch.iml" filepath="$PROJECT_DIR$/comando-switch/comando-switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comando-condicionais/comandos-condicionais.iml" filepath="$PROJECT_DIR$/comando-condicionais/comandos-condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/entra21-java-basics.iml" filepath="$PROJECT_DIR$/.idea/entra21-java-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+    </modules>
+  </component>
+</project>
