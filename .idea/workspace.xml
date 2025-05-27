@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79fe66db-030c-4db2-9bdc-2c5a76c090db" name="Changes" comment="feat: adiciona exercicio4.java">
-      <change afterPath="$PROJECT_DIR$/laco-repeticao/laco-repeticao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/src/login/while1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista-de-exercicios/lista-de-exercicios.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comando-switch/src/SwitchCase/exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/comando-switch/src/SwitchCase/exercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/src/login/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/login/src/login/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ex2.executor": "Run",
+    "Application.Ex3.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ex1.executor": "Run",
+    "Application.ex2.executor": "Run",
     "Application.exer4.executor": "Run",
     "Application.exercicio1.executor": "Run",
     "Application.exercicio4.executor": "Run",
@@ -63,12 +64,17 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/vinicius_pereira153/Desktop/entra21-java-basics",
-    "onboarding.tips.debug.path": "C:/Users/vinicius_pereira153/Desktop/entra21-java-basics/laco-repeticao/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/vinicius_pereira153/Desktop/entra21-java-basics/lista-de-exercicios/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exercicios" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -110,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747772137978</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: adiciona exercicio4.java">
+      <option name="closed" value="true" />
+      <created>1747944531010</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747944531010</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,16 +133,5 @@
     <MESSAGE value="feat: adiciona três exercicios de switch case" />
     <MESSAGE value="feat: adiciona exercicio4.java" />
     <option name="LAST_COMMIT_MESSAGE" value="feat: adiciona exercicio4.java" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/laco-repeticao/src/exercicios/exercicio1.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

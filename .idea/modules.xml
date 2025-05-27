@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/comando-condicionais/comandos-condicionais.iml" filepath="$PROJECT_DIR$/comando-condicionais/comandos-condicionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/entra21-java-basics.iml" filepath="$PROJECT_DIR$/.idea/entra21-java-basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/laco-repeticao/laco-repeticao.iml" filepath="$PROJECT_DIR$/laco-repeticao/laco-repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista-de-exercicios/lista-de-exercicios.iml" filepath="$PROJECT_DIR$/lista-de-exercicios/lista-de-exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
     </modules>
   </component>
