@@ -24,9 +24,12 @@ public class Ex1 {
             quantidadeNumeros++;
         }
 
+        // Saida de dados
         System.out.println("Foi digitado: " + quantidadeNumeros + " de vezes");
         System.out.println("A soma total foi de: " + somaTotal);
         System.out.println("Média é de: " + (somaTotal / quantidadeNumeros));
+
+        // Fecha Scanner
         sc.close();
     }
 }

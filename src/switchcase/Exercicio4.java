@@ -10,11 +10,11 @@ public class Exercicio4 {
         char encerraPrograma = 'N';
 
         while (encerraPrograma == 'N') {
+
             //Entrada de dados
             System.out.println("Cargos: ");
             System.out.println("1 - Serviços Gerais   2 - Vigia");
             System.out.println("3 - Recepcionista     4 - Vendedor\n");
-
 
             int cargoPessoa = sc.nextInt();
             System.out.print("Informe seu salário: ");
@@ -41,9 +41,12 @@ public class Exercicio4 {
                     break;
 
             }
+            // Deseja sair do programa? S-N
             System.out.println("Deseja sair do programa?");
             encerraPrograma = sc.next().toUpperCase().charAt(0);
         }
+
+        // Fecha Scanner
         sc.close();
     }
 }

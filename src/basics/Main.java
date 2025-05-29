@@ -30,6 +30,8 @@ public class Main {
         System.out.println("Nome.....: " + nomePessoa);
         System.out.println("Idade....: " + idadePessoa);
         System.out.println("Horas trabalhadas: ");
+
+        // Fecha Scanner
         sc.close();
     }
 

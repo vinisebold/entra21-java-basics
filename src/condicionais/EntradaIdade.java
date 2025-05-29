@@ -16,7 +16,7 @@ public class EntradaIdade {
         System.out.println("Informe a idade da pessoa");
         idadePessoa = Integer.parseInt(JOptionPane.showInputDialog("Informe a idade da pessoa"));
 
-        // Condicional
+        // Processamento (condicional)
         if (idadePessoa >= 18) {
             JOptionPane.showConfirmDialog(null, "Entrada Liberada!");
             System.out.println("Entrada liberada");
@@ -25,5 +25,7 @@ public class EntradaIdade {
             System.out.println("Entrada não permitida!");
         }
 
+        // Fecha Scanner
+        sc.close();
     }
 }

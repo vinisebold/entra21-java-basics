@@ -15,7 +15,7 @@ public class Ex3 {
         Scanner sc = new Scanner(System.in);
 
         // Processamento
-        while (somaNumero1 <= 100 && somaNumero2 >= -50 && qntdVezes < 30){
+        while (somaNumero1 <= 100 && somaNumero2 >= -50 || qntdVezes < 30) {
             System.out.print("Informe o número do 1° par: ");
             int aux1 = sc.nextInt();
             somaNumero1 += aux1;
@@ -28,9 +28,10 @@ public class Ex3 {
         }
 
         // Saida de dados
+        System.out.println("Quantidade de vezes que os pares foram lidos: " + qntdVezes);
+        System.out.println("A média do 1° par: " + (somaNumero1 / qntdVezes));
 
-
-
-
+        // Fecha Scanner
+        sc.close();
     }
 }

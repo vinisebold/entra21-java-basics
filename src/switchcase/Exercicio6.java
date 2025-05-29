@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Exercicio6 {
     public static void main(String[] args) {
+
         // Inicializa Scanner
         Scanner sc = new Scanner(System.in);
 
@@ -27,6 +28,8 @@ public class Exercicio6 {
         } else {
             conceitoAluno = 'C';
         }
+
+        // Output
         switch (conceitoAluno) {
             case 'A':
                 System.out.println("Aprovado");
@@ -39,5 +42,8 @@ public class Exercicio6 {
                 break;
 
         }
+
+        // Fecha Scanner
+        sc.close();
     }
 }

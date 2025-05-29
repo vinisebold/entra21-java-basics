@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79fe66db-030c-4db2-9bdc-2c5a76c090db" name="Changes" comment="feat: adiciona lista exercicios">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/entra21-java-basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/entra21-java-basics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/basics.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/src/Java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comando-condicionais/comandos-condicionais.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comando-condicionais/src/condicionais/calculoIMC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionais/CalculoIMC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comando-condicionais/src/condicionais/entradaIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionais/EntradaIdade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comando-condicionais/src/condicionais/idadePessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionais/IdadePessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comando-condicionais/src/condicionais/leitorIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionais/LeitorIdade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comando-switch/comando-switch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comando-switch/src/SwitchCase/exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/switchcase/Exercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comando-switch/src/SwitchCase/exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/switchcase/Exercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comando-switch/src/SwitchCase/exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/switchcase/Exercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laco-repeticao/laco-repeticao.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laco-repeticao/src/exercicios/exercicio1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista-de-exercicios/lista-de-exercicios.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista-de-exercicios/src/exercicios/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista-de-exercicios/src/exercicios/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista-de-exercicios/src/exercicios/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/login.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/src/login/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/login/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/src/login/while1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/login/While.java" afterDir="false" />
+    <list default="true" id="79fe66db-030c-4db2-9bdc-2c5a76c090db" name="Changes" comment="Reorganiza todo o projeto&#10;&#10;- Unificadas múltiplas pastas `src` espalhadas por pacotes para uma única estrutura central `src/`.&#10;- Renomeia pastas, pacotes e classes conforme as convenções e boas práticas.&#10;- Melhorada a organização do projeto para facilitar a manutenção e legibilidade.">
+      <change beforePath="$PROJECT_DIR$/src/exercicios/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios/Ex3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +35,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -72,6 +49,7 @@
   "keyToString": {
     "Application.Ex2.executor": "Run",
     "Application.Ex3.executor": "Run",
+    "Application.Exercicio4.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ex1.executor": "Run",
     "Application.ex2.executor": "Run",
@@ -165,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748376831870</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Reorganiza todo o projeto&#10;&#10;- Unificadas múltiplas pastas `src` espalhadas por pacotes para uma única estrutura central `src/`.&#10;- Renomeia pastas, pacotes e classes conforme as convenções e boas práticas.&#10;- Melhorada a organização do projeto para facilitar a manutenção e legibilidade.">
+      <option name="closed" value="true" />
+      <created>1748539316674</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748539316674</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,6 +160,7 @@
     <MESSAGE value="feat: adiciona três exercicios de switch case" />
     <MESSAGE value="feat: adiciona exercicio4.java" />
     <MESSAGE value="feat: adiciona lista exercicios" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adiciona lista exercicios" />
+    <MESSAGE value="Reorganiza todo o projeto&#10;&#10;- Unificadas múltiplas pastas `src` espalhadas por pacotes para uma única estrutura central `src/`.&#10;- Renomeia pastas, pacotes e classes conforme as convenções e boas práticas.&#10;- Melhorada a organização do projeto para facilitar a manutenção e legibilidade." />
+    <option name="LAST_COMMIT_MESSAGE" value="Reorganiza todo o projeto&#10;&#10;- Unificadas múltiplas pastas `src` espalhadas por pacotes para uma única estrutura central `src/`.&#10;- Renomeia pastas, pacotes e classes conforme as convenções e boas práticas.&#10;- Melhorada a organização do projeto para facilitar a manutenção e legibilidade." />
   </component>
 </project>

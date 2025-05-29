@@ -41,6 +41,8 @@ public class Ex2 {
 
         // Saida de dados
         System.out.println("Média dos números únicos: " + ((double)somaNumeros / (quantidadeNumeros)));
+
+        // Fecha Scanner
         sc.close();
     }
 }

@@ -36,5 +36,7 @@ public class Exercicio5 {
                 System.out.println("Valor fora dos padrões! Programa cancelado!");
                 System.exit(0);
         }
+        // Fecha Scanner
+        sc.close();
     }
 }

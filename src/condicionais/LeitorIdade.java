@@ -8,7 +8,7 @@ public class LeitorIdade {
         // Declaração de Variável e Entrada de dados
         int idadePessoa = Integer.parseInt(JOptionPane.showInputDialog(null, "Informe a sua idade:"));
 
-        // Condicional
+        // Processamento e Saida
         if (idadePessoa < 17) {
             JOptionPane.showMessageDialog(null, "Eleitor obrigatório");
         } else if (idadePessoa >= 18 && idadePessoa <= 65) {
