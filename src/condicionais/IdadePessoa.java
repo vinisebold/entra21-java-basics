@@ -2,7 +2,7 @@ package condicionais;
 
 import javax.swing.*;
 
-public class idadePessoa {
+public class IdadePessoa {
     public static void main(String[] args) {
 
         // Declaração de Variável e Entrada de dados

@@ -2,7 +2,7 @@ package condicionais;
 
 import java.util.Scanner;
 
-public class calculoIMC {
+public class CalculoIMC {
     public static void main(String[] args) {
 
         // Inicializa Scanner

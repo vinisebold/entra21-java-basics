@@ -3,7 +3,7 @@ package condicionais;
 import javax.swing.*;
 import java.util.Scanner;
 
-public class entradaIdade {
+public class EntradaIdade {
     public static void main(String[] args) {
 
         // Scanner sc

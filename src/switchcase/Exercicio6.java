@@ -1,8 +1,8 @@
-package SwitchCase;
+package switchcase;
 
 import java.util.Scanner;
 
-public class exercicio6 {
+public class Exercicio6 {
     public static void main(String[] args) {
         // Inicializa Scanner
         Scanner sc = new Scanner(System.in);

@@ -4,10 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79fe66db-030c-4db2-9bdc-2c5a76c090db" name="Changes" comment="feat: adiciona exercicio4.java">
-      <change afterPath="$PROJECT_DIR$/lista-de-exercicios/lista-de-exercicios.iml" afterDir="false" />
+    <list default="true" id="79fe66db-030c-4db2-9bdc-2c5a76c090db" name="Changes" comment="feat: adiciona lista exercicios">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/entra21-java-basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/entra21-java-basics.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/basics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/src/Java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comando-condicionais/comandos-condicionais.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comando-condicionais/src/condicionais/calculoIMC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionais/CalculoIMC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comando-condicionais/src/condicionais/entradaIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionais/EntradaIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comando-condicionais/src/condicionais/idadePessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionais/IdadePessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comando-condicionais/src/condicionais/leitorIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionais/LeitorIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comando-switch/comando-switch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comando-switch/src/SwitchCase/exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/switchcase/Exercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comando-switch/src/SwitchCase/exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/switchcase/Exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comando-switch/src/SwitchCase/exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/switchcase/Exercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laco-repeticao/laco-repeticao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laco-repeticao/src/exercicios/exercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista-de-exercicios/lista-de-exercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista-de-exercicios/src/exercicios/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista-de-exercicios/src/exercicios/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios/Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista-de-exercicios/src/exercicios/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/login.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/src/login/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/login/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/src/login/while1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/login/While.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +87,15 @@
     "last_opened_file_path": "C:/Users/vinicius_pereira153/Desktop/entra21-java-basics",
     "onboarding.tips.debug.path": "C:/Users/vinicius_pereira153/Desktop/entra21-java-basics/lista-de-exercicios/src/Main.java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vinicius_pereira153\Desktop\entra21-java-basics\src\login" />
+      <recent name="C:\Users\vinicius_pereira153\Desktop\entra21-java-basics\src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="exercicios" />
     </key>
@@ -124,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747944531010</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: adiciona lista exercicios">
+      <option name="closed" value="true" />
+      <created>1748376799829</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748376799829</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: adiciona lista exercicios">
+      <option name="closed" value="true" />
+      <created>1748376831870</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748376831870</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -132,6 +173,7 @@
     <MESSAGE value="fix: altera lógica do condicional" />
     <MESSAGE value="feat: adiciona três exercicios de switch case" />
     <MESSAGE value="feat: adiciona exercicio4.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adiciona exercicio4.java" />
+    <MESSAGE value="feat: adiciona lista exercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adiciona lista exercicios" />
   </component>
 </project>
